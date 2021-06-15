@@ -1,2 +1,2 @@
-# HydroConversions
-A package of hydrologic-modeling-related unit conversions.
+# EcoHydroConversions
+A package of ecohydrologic-modeling-related unit conversions.
