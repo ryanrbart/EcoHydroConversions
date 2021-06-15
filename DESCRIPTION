@@ -1,11 +1,10 @@
-Package: HydroConversions
+Package: EcoHydroConversions
 Type: Package
-Title: A Package of Hydrologic-Modeling-Related Unit Conversions
+Title: A Package of Ecohydrologic-Modeling-Related Unit Conversions
 Version: 0.1.0
 Author: Ryan R. Bart
 Maintainer: Ryan R. Bart <rbart3@ucmerced.edu>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: A collection of unit conversions used for ecohydrologic modeling and data analysis. The functions come in a several flavors. Some are related to dates (particularly water-year-related conversions), others involve conversion to/from metric and savage (aka imperial) units, while the rest are a mishmash of conversions that I've needed to generate at one time or another.
 License: GPL (>= 2)
 LazyData: true
 Imports:
