@@ -1,8 +1,8 @@
-#' mm/day to acre-feet streamflow conversion
+#' mm to acre-feet streamflow conversion
 #'
-#' Converts streamflow at mm/day to acre-feet
+#' Converts streamflow at mm to acre-feet
 #' 
-#' @param mm Millimeters of streamflow per day
+#' @param mm Millimeters of streamflow
 #' @param km2 Watershed area in km2
 #' 
 #' @author Ryan Bart

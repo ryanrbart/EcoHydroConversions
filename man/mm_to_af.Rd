@@ -2,17 +2,17 @@
 % Please edit documentation in R/mm_to_af.R
 \name{mm_to_af}
 \alias{mm_to_af}
-\title{mm/day to acre-feet streamflow conversion}
+\title{mm to acre-feet streamflow conversion}
 \usage{
 mm_to_af(mm, km2)
 }
 \arguments{
-\item{mm}{Millimeters of streamflow per day}
+\item{mm}{Millimeters of streamflow}
 
 \item{km2}{Watershed area in km2}
 }
 \description{
-Converts streamflow at mm/day to acre-feet
+Converts streamflow at mm to acre-feet
 }
 \examples{
 # Compute 1 acre-foot of water (arguments are 1 foot and 1 acre, respectively)
